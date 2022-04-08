@@ -1,0 +1,53 @@
+body {
+  background-color: rgba(100, 83, 73, 0.671);
+  font-family: "Red Hat Mono", monospace;
+}
+h1 {
+  color: rgb(255, 255, 255);
+}
+#contact {
+  font: 50px;
+  color: rgb(255, 255, 255);
+}
+img {
+  width: 310px;
+  height: 310px;
+}
+p {
+  font: size 34px;
+  color: rgba(253, 233, 208, 0.753);
+}
+#realegends {
+  color: rgba(93, 80, 73, 0.876);
+  flex-direction: column;
+}
+#kobesfamily {
+  color: rgba(93, 80, 73, 0.876);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(77, 56, 56, 0.534);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+#contact2 {
+  width: 305px;
+  height: 310px;
+}
